@@ -17,7 +17,7 @@ func m() {
    a = "O"
    print(a)
 }
-```go
+```
 
 输出结果为GOO
 全局变量为a赋值为G

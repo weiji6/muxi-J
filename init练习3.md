@@ -18,7 +18,7 @@ func f1() {
 func f2() {
    print(a)
 }
-```go
+```
 
 输出结果GOG
 全局变量为a,并在main函数中赋值为G
